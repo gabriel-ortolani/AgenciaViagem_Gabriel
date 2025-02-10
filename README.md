@@ -20,6 +20,7 @@ Nootebook:<br>
 
 Mobile:<br>
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/c8b3699f-b8ca-4b43-90e4-1275dff06e71" />
+<hr>
 
 
 
