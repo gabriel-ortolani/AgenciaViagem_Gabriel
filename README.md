@@ -1,4 +1,4 @@
-# Agencia de viagem
+# Agência de viagem
 
 ## Com intuito pedagógico foi proposto desenvolver um site que segue o modelo entregue pelos professores e fosse completamente responsivo
 
